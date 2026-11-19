@@ -21,7 +21,7 @@
       ]
     }
   },
-  "base_scale": 1.0,
+  "base_scale": 1.15,
   "gender": "female",
   "first_name_list": "orcish_women_names",
   "family_name_list": "orcish_family_names",
@@ -33,10 +33,7 @@
     "millenaire:deliver_resources_shop",
     "millenaire:get_resources_for_shops",
     "millenaire:get_goods_for_household",
-    "millenaire:bring_back_home",
-    "millenaire:build",
-    "millenaire:build_path",
-    "millenaire:clear_old_path"
+    "millenaire:bring_back_home"
   ],
   "tags": [
     "seller",

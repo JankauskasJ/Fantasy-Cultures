@@ -1,0 +1,45 @@
+{
+  "culture": "millenaire:orcish",
+  "native_name": "Sáer",
+  "textures": [
+    "millenaire:textures/entity/orcish/builder_0.png",
+    "millenaire:textures/entity/orcish/builder_1.png",
+    "millenaire:textures/entity/orcish/builder_2.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/orcish/clothes/builder_0.png"
+      ]
+    }
+  },
+  "base_scale": 1.15,
+  "gender": "male",
+  "first_name_list": "orcish_men_names",
+  "family_name_list": "orcish_family_names",
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:build",
+    "millenaire:build_path",
+    "millenaire:clear_old_path"
+  ],
+  "tags": [
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "icon": "minecraft:stone_shovel",
+  "max_health": 40,
+  "base_attack_strength": 5,
+  "tool_needed_classes": [
+    "axes",
+    "shovels",
+    "pickaxes"
+  ],
+  "default_weapon": "minecraft:stone_axe",
+  "travelbook_held_item": "minecraft:stone_shovel",
+  "travelbook_held_item_off_hand": "minecraft:spruce_log"
+}

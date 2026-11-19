@@ -1,0 +1,32 @@
+{
+  "culture": "millenaire:orcish",
+  "native_name": "Mac",
+  "textures": [
+    "millenaire:textures/entity/orcish/boy_0.png",
+    "millenaire:textures/entity/orcish/boy_1.png"
+  ],
+  "is_child": true,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:child_become_adult",
+    "millenaire:play",
+    "millenaire:play_with_friends",
+    "millenaire:observe_construction",
+    "millenaire:observe_agriculture"
+  ],
+  "tags": [
+    "child"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "orcish_men_names",
+  "family_name_list": "orcish_family_names",
+  "icon": "minecraft:stick",
+  "base_attack_strength": 2,
+  "default_weapon": "minecraft:wooden_sword",
+  "alt_native_name": "Ócláech",
+  "alt_key": "teenagermale"
+}

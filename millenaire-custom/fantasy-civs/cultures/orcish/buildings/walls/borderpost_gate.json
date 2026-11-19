@@ -1,0 +1,36 @@
+{
+  "culture": "millenaire:orcish",
+  "building_id": "borderpost_gate",
+  "category": "walls",
+  "is_border_building": true,
+  "native_name": "Dorus Críche",
+  "max_count": 0,
+  "tags": [
+    "borderpostsign",
+    "patrol"
+  ],
+  "icon": "minecraft:spruce_log",
+  "area_to_clear": 1,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -6,
+      "tags": [
+        "borderpostsign",
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 3
+          },
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}

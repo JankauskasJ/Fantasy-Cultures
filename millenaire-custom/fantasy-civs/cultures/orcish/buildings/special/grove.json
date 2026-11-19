@@ -3,6 +3,8 @@
   "building_id": "grove",
   "category": "special",
   "native_name": "Fidnemed",
+  "min_distance": 0.6,
+  "max_count": 2,
   "tags": [
     "grove"
   ],
@@ -10,7 +12,7 @@
   "variants": [
     {
       "variant": "a",
-      "building_orientation": 1,
+      "building_orientation": 3,
       "levels": [
         {
           "level": 0,

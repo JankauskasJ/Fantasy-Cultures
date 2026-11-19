@@ -13,14 +13,20 @@ It comes in two parts:
 ### Orcish
 Tribal warcamps of round spruce-and-earth lodges that grow into stone and bone halls. Every adult orc fights, and they speak Old Celtic (Old Irish).
 
-The village type `warcamp` currently has these buildings, all at their first level:
+The village type `warcamp` currently has these buildings, all at their first level. A new warcamp starts with one of each; as it grows it builds a second of every hut and work site.
 
 | Building | Residents |
 |---|---|
 | Warlord's Hall (town hall) | Warlord, Chieftess |
+| Builder's Hut | Builder, Orc Woman |
 | Lumberjack Hut | Lumberjack, Orc Woman |
-| Spruce Grove | — |
-| Mine | Miner, Orc Woman |
+| Spruce Grove | — (worked by the Lumberjack) |
+| Miner's Hut | Miner, Orc Woman |
+| Mine | — (worked by the Miner) |
+
+- **Walls:** an earthwork wall with towers, corners, gates, slopes and end pieces rings the camp, and border posts mark its outer edge. The Grove, Mine and work huts sit outside the wall.
+- **Villagers:** orcs are larger than humans (adults 15 %, the Warlord 25 %) and every adult fights and joins raids. Orc boys and girls are born in the huts and grow up into the village's jobs. Only Builders build.
+- **Trade:** the Warlord's Hall sells and buys spruce, stone, cobblestone, gravel and earth goods. The Miner smelts his cobblestone into stone with spruce from the Lumberjack.
 
 Warcamps don't spawn naturally yet. Spawn one with `/millenaire spawn warcamp`.
 

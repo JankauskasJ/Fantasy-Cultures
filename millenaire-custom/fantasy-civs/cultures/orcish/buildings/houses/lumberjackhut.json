@@ -3,8 +3,14 @@
   "building_id": "lumberjackhut",
   "category": "houses",
   "native_name": "Tech Fedo",
-  "male": ["lumberjack"],
-  "female": ["woman"],
+  "min_distance": 0.5,
+  "max_count": 2,
+  "male": [
+    "lumberjack"
+  ],
+  "female": [
+    "woman"
+  ],
   "icon": "minecraft:spruce_log",
   "variants": [
     {
@@ -13,7 +19,11 @@
       "levels": [
         {
           "level": 0,
-          "footprint": { "width": 13, "height": 7, "depth": 16 },
+          "footprint": {
+            "width": 13,
+            "height": 7,
+            "depth": 16
+          },
           "ground_level": -1,
           "priority": 500
         }

@@ -21,7 +21,7 @@
       ]
     }
   },
-  "base_scale": 1.0,
+  "base_scale": 1.15,
   "gender": "female",
   "first_name_list": "orcish_women_names",
   "family_name_list": "orcish_family_names",
@@ -37,17 +37,21 @@
     "millenaire:craft_dirtwall",
     "millenaire:craft_pathdirt",
     "millenaire:craft_pathgravel",
-    "millenaire:craft_shoveldirt",
-    "millenaire:build",
-    "millenaire:build_path",
-    "millenaire:clear_old_path"
+    "millenaire:craft_shoveldirt"
   ],
-  "tags": ["seller", "raider", "helpInAttacks"],
+  "tags": [
+    "seller",
+    "raider",
+    "helpInAttacks"
+  ],
   "spawn_weight": 0,
   "icon": "minecraft:wooden_shovel",
   "max_health": 35,
   "base_attack_strength": 4,
-  "tool_needed_classes": ["shovels", "pickaxes"],
+  "tool_needed_classes": [
+    "shovels",
+    "pickaxes"
+  ],
   "default_weapon": "minecraft:wooden_axe",
   "travelbook_held_item": "minecraft:wooden_shovel"
 }

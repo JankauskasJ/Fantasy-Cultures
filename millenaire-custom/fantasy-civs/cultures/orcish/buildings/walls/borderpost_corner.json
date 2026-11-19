@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:orcish",
+  "building_id": "borderpost_corner",
+  "category": "walls",
+  "is_border_building": true,
+  "native_name": "Cúil Críche",
+  "max_count": 0,
+  "icon": "minecraft:spruce_log",
+  "area_to_clear": 1,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -6,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 4,
+            "height": 10,
+            "depth": 4
+          },
+          "priority": 1,
+          "no_paths_to_building": true
+        }
+      ]
+    }
+  ]
+}

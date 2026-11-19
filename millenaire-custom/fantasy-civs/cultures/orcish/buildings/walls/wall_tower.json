@@ -1,0 +1,40 @@
+{
+  "culture": "millenaire:orcish",
+  "building_id": "wall_tower",
+  "category": "walls",
+  "is_wall_segment": true,
+  "native_name": "Tor Múir",
+  "max_count": 0,
+  "tags": [
+    "wall_level_0",
+    "patrol"
+  ],
+  "icon": "minecraft:spruce_log",
+  "area_to_clear_length_before": 0,
+  "area_to_clear_length_after": 0,
+  "area_to_clear_width_before": 6,
+  "area_to_clear_width_after": 6,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -6,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 11,
+            "depth": 4
+          },
+          "priority": 1000,
+          "no_paths_to_building": true,
+          "tags": [
+            "wall_level_0",
+            "patrol"
+          ]
+        }
+      ]
+    }
+  ]
+}

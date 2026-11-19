@@ -1,0 +1,32 @@
+{
+  "culture": "millenaire:orcish",
+  "building_id": "builderhut",
+  "category": "houses",
+  "native_name": "Tech Sáer",
+  "male": [
+    "builder"
+  ],
+  "female": [
+    "woman"
+  ],
+  "icon": "minecraft:stone_shovel",
+  "max_count": 2,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 7,
+            "depth": 11
+          },
+          "priority": 450
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@
       ]
     }
   },
-  "base_scale": 1.2,
+  "base_scale": 1.25,
   "gender": "male",
   "first_name_list": "orcish_men_names",
   "family_name_list": "orcish_family_names",

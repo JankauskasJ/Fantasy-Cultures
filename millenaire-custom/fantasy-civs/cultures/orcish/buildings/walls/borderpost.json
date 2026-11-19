@@ -1,0 +1,35 @@
+{
+  "culture": "millenaire:orcish",
+  "building_id": "borderpost",
+  "category": "walls",
+  "is_border_building": true,
+  "native_name": "Sonn Críche",
+  "max_count": 0,
+  "tags": [
+    "borderpostsign"
+  ],
+  "icon": "minecraft:spruce_log",
+  "area_to_clear": 1,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -6,
+      "tags": [
+        "borderpostsign"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 5,
+            "height": 10,
+            "depth": 3
+          },
+          "priority": 1,
+          "no_paths_to_building": true
+        }
+      ]
+    }
+  ]
+}

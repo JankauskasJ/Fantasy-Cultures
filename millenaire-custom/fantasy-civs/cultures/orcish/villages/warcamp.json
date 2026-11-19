@@ -21,12 +21,44 @@
       "role": "start"
     },
     {
+      "plan": "millenaire:orcish/minershut",
+      "role": "start"
+    },
+    {
       "plan": "millenaire:orcish/mine",
       "role": "start"
+    },
+    {
+      "plan": "millenaire:orcish/builderhut",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:orcish/builderhut",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:orcish/grove",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:orcish/lumberjackhut",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:orcish/mine",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:orcish/minershut",
+      "role": "core"
     }
   ],
   "path_materials": [
     "pathdirt",
     "pathgravel"
-  ]
+  ],
+  "outer_wall_type": "borderposts",
+  "inner_wall_type": "walls",
+  "inner_wall_radius": 35,
+  "max_simultaneous_constructions": 2
 }

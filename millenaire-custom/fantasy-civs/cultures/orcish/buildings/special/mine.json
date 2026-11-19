@@ -1,19 +1,23 @@
 {
   "culture": "millenaire:orcish",
   "building_id": "mine",
-  "category": "houses",
+  "category": "special",
   "native_name": "Méinn",
-  "male": ["miner"],
-  "female": ["woman"],
+  "min_distance": 0.6,
+  "max_count": 2,
   "icon": "minecraft:stone_pickaxe",
   "variants": [
     {
       "variant": "a",
-      "building_orientation": 1,
+      "building_orientation": 0,
       "levels": [
         {
           "level": 0,
-          "footprint": { "width": 14, "height": 7, "depth": 13 },
+          "footprint": {
+            "width": 8,
+            "height": 3,
+            "depth": 8
+          },
           "ground_level": -1,
           "priority": 400
         }
