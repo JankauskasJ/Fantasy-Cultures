@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:orcish",
+  "building_id": "grove",
+  "category": "special",
+  "native_name": "Fidnemed",
+  "tags": [
+    "grove"
+  ],
+  "icon": "minecraft:spruce_sapling",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 3,
+            "depth": 8
+          },
+          "ground_level": -1,
+          "priority": 450
+        }
+      ]
+    }
+  ]
+}

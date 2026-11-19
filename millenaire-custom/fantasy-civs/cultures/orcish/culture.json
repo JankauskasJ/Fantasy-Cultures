@@ -1,0 +1,28 @@
+{
+  "display_name": "Orcish",
+  "native_language": "sga",
+  "known_crops": [],
+  "travel_book": {
+    "villager_categories": ["leader", "villager"],
+    "building_categories": ["townhall", "house"],
+    "trade_good_categories": ["construction", "tools", "weapons"],
+    "category_icons": {
+      "leader": "minecraft:iron_sword",
+      "villager": "minecraft:bone",
+      "townhall": "minecraft:spruce_log",
+      "house": "minecraft:oak_planks",
+      "construction": "minecraft:cobblestone",
+      "tools": "minecraft:iron_axe",
+      "weapons": "minecraft:iron_sword"
+    },
+    "category_names": {
+      "leader": "travelbook.category.leader",
+      "villager": "travelbook.category.villager",
+      "townhall": "travelbook.category.townhall",
+      "house": "travelbook.category.house",
+      "construction": "travelbook.category.construction",
+      "tools": "travelbook.category.tools",
+      "weapons": "travelbook.category.weapons"
+    }
+  }
+}

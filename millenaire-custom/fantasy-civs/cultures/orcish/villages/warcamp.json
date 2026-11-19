@@ -1,0 +1,32 @@
+{
+  "culture": "millenaire:orcish",
+  "name": "Dúnad",
+  "weight": 0,
+  "biome_tags": [
+    "#c:is_savanna",
+    "#c:is_badlands",
+    "minecraft:dark_forest"
+  ],
+  "layout": [
+    {
+      "plan": "millenaire:orcish/warlordshall",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:orcish/lumberjackhut",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:orcish/grove",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:orcish/mine",
+      "role": "start"
+    }
+  ],
+  "path_materials": [
+    "pathdirt",
+    "pathgravel"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "culture": "millenaire:orcish",
+  "building_id": "lumberjackhut",
+  "category": "houses",
+  "native_name": "Tech Fedo",
+  "male": ["lumberjack"],
+  "female": ["woman"],
+  "icon": "minecraft:spruce_log",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": { "width": 13, "height": 7, "depth": 16 },
+          "ground_level": -1,
+          "priority": 500
+        }
+      ]
+    }
+  ]
+}

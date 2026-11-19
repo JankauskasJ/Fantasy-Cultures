@@ -1,0 +1,63 @@
+{
+  "goods": [
+    {
+      "id": "wood_pine",
+      "item": "minecraft:spruce_log",
+      "selling_price": 2,
+      "buying_price": 1,
+      "target_quantity": 64,
+      "category": "construction"
+    },
+    {
+      "id": "cobblestone",
+      "item": "minecraft:cobblestone",
+      "selling_price": 2,
+      "buying_price": 1,
+      "target_quantity": 64,
+      "category": "construction"
+    },
+    {
+      "id": "stone",
+      "item": "minecraft:stone",
+      "selling_price": 5,
+      "buying_price": 3,
+      "reserved_quantity": 128,
+      "target_quantity": 1024,
+      "category": "construction"
+    },
+    {
+      "id": "dirt_wall",
+      "item": "millenaire:dirt_wall",
+      "selling_price": 1,
+      "category": "construction"
+    },
+    {
+      "id": "path_dirt",
+      "item": "millenaire:path_dirt",
+      "selling_price": 1,
+      "category": "construction"
+    },
+    {
+      "id": "coarse_dirt",
+      "item": "minecraft:coarse_dirt",
+      "selling_price": 2,
+      "buying_price": 1,
+      "category": "construction"
+    },
+    {
+      "id": "gravel",
+      "item": "minecraft:gravel",
+      "selling_price": 2,
+      "buying_price": 1,
+      "reserved_quantity": 32,
+      "target_quantity": 512,
+      "category": "construction"
+    },
+    {
+      "id": "path_gravel",
+      "item": "millenaire:path_gravel",
+      "selling_price": 2,
+      "category": "construction"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "culture": "millenaire:orcish",
+  "native_name": "Ruirí",
+  "textures": [
+    "millenaire:textures/entity/orcish/warlord_0.png",
+    "millenaire:textures/entity/orcish/warlord_1.png",
+    "millenaire:textures/entity/orcish/warlord_2.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/orcish/clothes/warlord_0.png",
+        "millenaire:textures/entity/orcish/clothes/warlord_1.png"
+      ]
+    }
+  },
+  "base_scale": 1.2,
+  "gender": "male",
+  "first_name_list": "orcish_men_names",
+  "family_name_list": "orcish_family_names",
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "chief",
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:leather_chestplate": 1,
+    "minecraft:iron_axe": 1
+  },
+  "required_goods": {
+    "minecraft:spruce_log": 16
+  },
+  "icon": "minecraft:iron_axe",
+  "max_health": 80,
+  "tool_needed_classes": [
+    "armour",
+    "toolssword"
+  ],
+  "base_attack_strength": 8,
+  "default_weapon": "minecraft:iron_axe",
+  "travelbook_held_item": "minecraft:iron_axe"
+}

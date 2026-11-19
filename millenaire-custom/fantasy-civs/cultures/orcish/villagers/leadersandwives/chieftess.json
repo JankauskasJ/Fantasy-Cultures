@@ -1,0 +1,59 @@
+{
+  "culture": "millenaire:orcish",
+  "native_name": "Rígan",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/orcish/chieftess_0.png",
+    "millenaire:textures/entity/orcish/chieftess_1.png",
+    "millenaire:textures/entity/orcish/chieftess_2.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/orcish/clothes/chieftess_0.png",
+        "millenaire:textures/entity/orcish/clothes/chieftess_1.png",
+        "millenaire:textures/entity/orcish/clothes/chieftess_2.png"
+      ],
+      "layer1": [
+        "millenaire:textures/entity/orcish/hair/hair_0.png",
+        "millenaire:textures/entity/orcish/hair/hair_1.png",
+        "millenaire:textures/entity/orcish/hair/hair_2.png"
+      ]
+    }
+  },
+  "base_scale": 1.0,
+  "gender": "female",
+  "first_name_list": "orcish_women_names",
+  "family_name_list": "orcish_family_names",
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_resources_for_shops",
+    "millenaire:get_goods_for_household",
+    "millenaire:bring_back_home",
+    "millenaire:build",
+    "millenaire:build_path",
+    "millenaire:clear_old_path"
+  ],
+  "tags": [
+    "seller",
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:spruce_log": 16
+  },
+  "icon": "minecraft:spruce_log",
+  "tool_needed_classes": [
+    "armour",
+    "toolssword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "travelbook_held_item": "minecraft:spruce_log",
+  "max_health": 40
+}

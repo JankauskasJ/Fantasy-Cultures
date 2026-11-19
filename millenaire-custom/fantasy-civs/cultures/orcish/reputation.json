@@ -1,0 +1,18 @@
+{
+  "labels": [
+    { "threshold": -1024, "key": "reputation.millenaire.orcish.blood_enemy" },
+    { "threshold": -256, "key": "reputation.millenaire.orcish.hated_outsider" },
+    { "threshold": -64, "key": "reputation.millenaire.orcish.pest" },
+    { "threshold": 0, "key": "reputation.millenaire.orcish.stranger" },
+    { "threshold": 256, "key": "reputation.millenaire.orcish.sniffed_before" },
+    { "threshold": 512, "key": "reputation.millenaire.orcish.known_face" },
+    { "threshold": 1024, "key": "reputation.millenaire.orcish.camp_guest" },
+    { "threshold": 2048, "key": "reputation.millenaire.orcish.fellow_raider" },
+    { "threshold": 4096, "key": "reputation.millenaire.orcish.trusted_trader" },
+    { "threshold": 8192, "key": "reputation.millenaire.orcish.friend_of_the_clan" },
+    { "threshold": 16384, "key": "reputation.millenaire.orcish.blood_sworn" },
+    { "threshold": 32768, "key": "reputation.millenaire.orcish.one_of_the_clan" },
+    { "threshold": 131072, "key": "reputation.millenaire.orcish.born_warleader" },
+    { "threshold": 2097152, "key": "reputation.millenaire.orcish.legend_of_the_tribes" }
+  ]
+}

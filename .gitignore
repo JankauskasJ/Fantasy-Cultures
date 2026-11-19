@@ -1,0 +1,11 @@
+# Gradle / IDE output of the mod source
+mod/build/
+mod/.gradle/
+mod/run/
+mod/.idea/
+mod/.vscode/
+*.iml
+
+# OS clutter
+.DS_Store
+Thumbs.db

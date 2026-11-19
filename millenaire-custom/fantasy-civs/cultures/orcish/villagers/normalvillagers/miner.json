@@ -1,0 +1,40 @@
+{
+  "culture": "millenaire:orcish",
+  "native_name": "Sáer Cloiche",
+  "textures": [
+    "millenaire:textures/entity/orcish/miner_0.png",
+    "millenaire:textures/entity/orcish/miner_1.png",
+    "millenaire:textures/entity/orcish/miner_2.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/orcish/clothes/miner_0.png",
+        "millenaire:textures/entity/orcish/clothes/miner_1.png"
+      ]
+    }
+  },
+  "base_scale": 1.1,
+  "gender": "male",
+  "first_name_list": "orcish_men_names",
+  "family_name_list": "orcish_family_names",
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:bring_back_home",
+    "millenaire:mine_stone",
+    "millenaire:mine_gravel"
+  ],
+  "tags": ["raider", "helpInAttacks"],
+  "spawn_weight": 0,
+  "bring_back_home_goods": ["minecraft:cobblestone", "minecraft:gravel"],
+  "icon": "minecraft:stone_pickaxe",
+  "max_health": 40,
+  "base_attack_strength": 5,
+  "tool_needed_classes": ["shovels", "pickaxes", "toolssword"],
+  "default_weapon": "minecraft:stone_pickaxe",
+  "travelbook_held_item": "minecraft:stone_pickaxe",
+  "travelbook_held_item_off_hand": "minecraft:cobblestone"
+}

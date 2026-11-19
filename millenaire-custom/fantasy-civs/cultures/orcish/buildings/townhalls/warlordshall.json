@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:orcish",
+  "building_id": "warlordshall",
+  "category": "townhalls",
+  "native_name": "Rígthech",
+  "converter_skip": true,
+  "max_count": 0,
+  "is_town_hall": true,
+  "male": [
+    "warlord"
+  ],
+  "female": [
+    "chieftess"
+  ],
+  "priority_move_in": 10,
+  "icon": "minecraft:spruce_log",
+  "shop": "warlordshall",
+  "travel_book_category": "townhall",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 19,
+            "height": 9,
+            "depth": 19
+          },
+          "priority": 1000,
+          "signs": "8,7,6,5,4,3,2,1,0"
+        }
+      ]
+    }
+  ]
+}

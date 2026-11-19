@@ -1,0 +1,29 @@
+{
+  "sells": [
+    "wood_pine",
+    "cobblestone",
+    "stone",
+    "dirt_wall",
+    "path_dirt",
+    "coarse_dirt",
+    "gravel",
+    "path_gravel"
+  ],
+  "buys": [
+    "wood_pine",
+    "cobblestone",
+    "stone",
+    "coarse_dirt",
+    "gravel"
+  ],
+  "deliver_to": [
+    "minecraft:spruce_log",
+    "minecraft:cobblestone",
+    "minecraft:stone",
+    "millenaire:dirt_wall",
+    "millenaire:path_dirt",
+    "minecraft:coarse_dirt",
+    "minecraft:gravel",
+    "millenaire:path_gravel"
+  ]
+}

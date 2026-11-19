@@ -1,0 +1,19 @@
+Copyright (c) 2026 Juras Jankauskas. All Rights Reserved.
+
+This repository (the Fantasy Cultures content pack for Millénaire and the
+fantasy_civs companion mod, including their source code, building designs,
+culture data and other assets) is the property of the copyright holder.
+
+You may download and use it for personal play.
+
+You may not copy, modify, redistribute, re-upload, include in modpacks, or
+publish derivative works of any part of it without prior written permission
+from the copyright holder.
+
+Exceptions:
+- mod/TEMPLATE_LICENSE.txt covers the parts of the NeoForge mod template
+  (Gradle build files and wrapper) and remains under its own licence.
+- Millénaire is a separate work by Kinniken and contributors and is not part
+  of this repository.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
